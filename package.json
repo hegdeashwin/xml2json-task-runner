@@ -1,0 +1,26 @@
+{
+  "name": "xml2json-task-runner",
+  "version": "0.0.1",
+  "description": "A tool to convert from XML to JSON files.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegdeashwin/xml2json-task-runner.git"
+  },
+  "keywords": [
+    "XML",
+    "JSON",
+    "XML2JSON",
+    "Parser"
+  ],
+  "author": "Ashwin Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hegdeashwin/xml2json-task-runner/issues"
+  },
+  "homepage": "https://github.com/hegdeashwin/xml2json-task-runner#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-xml2json": "^0.1.5"
+  }
+}
